@@ -1,6 +1,4 @@
-@import "{{ site.theme }}";
-.main-content {
- {
-   color: #ff0000;
- }
+@import "minima";
+a:visited {
+  color: green;
 }
